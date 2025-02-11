@@ -1,6 +1,6 @@
 # About Me
 
-As a **Senior Software Engineer** with over **15 years** of diverse experience in various industries, I possess a wealth of technical knowledge and a deep understanding of software development processes. Throughout my career, I have demonstrated a passion for solving complex problems through the use of **cutting-edge technologies**, consistently delivering **high-quality solutions** that meet or exceed customer expectations.
+As a **Senior Software Engineer** with over **20 years** of diverse experience in various industries, I possess a wealth of technical knowledge and a deep understanding of software development processes. Throughout my career, I have demonstrated a passion for solving complex problems through the use of **cutting-edge technologies**, consistently delivering **high-quality solutions** that meet or exceed customer expectations.
 
 ## Expertise
 
